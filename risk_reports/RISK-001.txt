@@ -1,0 +1,31 @@
+Risk Analysis - RISK-001
+Date Recorded: 2026-09-16
+
+## Risk Description  
+The concrete supplier may deliver materials two weeks late, causing potential project delays, disruption of work schedules, and increased costs.
+
+## Probability  
+Medium – While the supplier has generally been reliable, potential external factors (e.g., transportation issues, weather conditions) could cause delays.
+
+## Impact  
+High – Concrete is a critical material; a two-week delay could halt subsequent construction activities, extend the project timeline, and increase labor and overhead costs.
+
+## Risk Level  
+High
+
+## Preventive Actions  
+- Confirm delivery schedules and terms with the supplier before contract signing.  
+- Maintain regular communication with the supplier to monitor order and shipping status.  
+- Identify and prequalify backup concrete suppliers.  
+- Schedule concrete delivery with buffer time ahead of critical milestones.  
+- Monitor weather and transport conditions that may affect delivery.
+
+## Response Plan  
+- Activate backup supplier agreement to procure concrete if the primary supplier fails to deliver on time.  
+- Adjust the project schedule to prioritize non-dependent tasks while awaiting concrete.  
+- Communicate delays and revised timelines promptly with stakeholders.  
+- Track additional costs incurred due to delay and document for claims or contract adjustments.  
+- Evaluate the feasibility of partial deliveries or alternative materials if critical.
+
+## Project Manager Recommendation  
+Establish a firm contract clause with the primary concrete supplier that includes penalties for late delivery and incentives for on-time or early delivery to encourage adherence to the schedule.

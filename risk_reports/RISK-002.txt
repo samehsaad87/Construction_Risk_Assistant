@@ -1,0 +1,29 @@
+Risk Analysis - RISK-002
+Date Recorded: 2026-09-16
+
+## Risk Description  
+Unexpected heavy rain may delay exterior construction activities by one week.
+
+## Probability  
+Medium – Weather patterns can be somewhat predicted, but sudden heavy rain is not uncommon during certain seasons.
+
+## Impact  
+Moderate – A one-week delay in exterior construction may affect project milestones and resource scheduling but may not completely halt the entire project.
+
+## Risk Level  
+Medium
+
+## Preventive Actions  
+- Monitor weather forecasts regularly, especially during critical exterior work phases.  
+- Schedule exterior construction activities during seasons with historically lower rainfall.  
+- Use temporary weather protection (e.g., tarps, tents) to shield ongoing work.  
+- Plan for flexible resource allocation to accommodate potential weather delays.  
+
+## Response Plan  
+- Adjust the project schedule promptly to reflect delays caused by rain.  
+- Reallocate resources to indoor or non-weather-dependent activities during rain delays.  
+- Communicate delay impacts and updated timelines to stakeholders immediately.  
+- Have contingency plans for expedited work once exterior conditions improve.  
+
+## Project Manager Recommendation  
+Establish a weather risk monitoring protocol and incorporate buffer time in the project schedule specifically for weather-related delays to minimize disruption.
