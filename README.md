@@ -46,4 +46,5 @@ Construction_Risk_Assistant/
 ├── .env
 └── risk_reports/
     ├── RISK-001.txt
-    └── RISK-002.txt
+    ├── RISK-002.txt
+    └── RISK-003.txt
